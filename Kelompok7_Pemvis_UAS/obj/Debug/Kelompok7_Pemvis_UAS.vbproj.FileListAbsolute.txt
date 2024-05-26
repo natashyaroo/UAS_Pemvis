@@ -1,0 +1,24 @@
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\bin\Debug\Kelompok7_Pemvis_UAS.exe.config
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\bin\Debug\Kelompok7_Pemvis_UAS.exe
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\bin\Debug\Kelompok7_Pemvis_UAS.pdb
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\bin\Debug\Kelompok7_Pemvis_UAS.xml
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.vbproj.AssemblyReference.cache
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.Form1.resources
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.Resources.resources
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.vbproj.GenerateResource.cache
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.vbproj.CoreCompileInputs.cache
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.exe
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.xml
+D:\PRAKTIKUM SEMS 4\PEMVIS\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.pdb
+C:\Users\R O G\Downloads\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.vbproj.AssemblyReference.cache
+C:\Users\R O G\Downloads\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.Form1.resources
+C:\Users\R O G\Downloads\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.vbproj.GenerateResource.cache
+C:\Users\R O G\Downloads\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.exe
+C:\Users\R O G\Downloads\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.xml
+C:\Users\R O G\Downloads\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.pdb
+C:\Users\swift\Videos\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.vbproj.AssemblyReference.cache
+C:\Users\swift\Videos\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.Form1.resources
+C:\Users\swift\Videos\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.vbproj.GenerateResource.cache
+C:\Users\swift\Videos\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.exe
+C:\Users\swift\Videos\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.xml
+C:\Users\swift\Videos\Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS\obj\Debug\Kelompok7_Pemvis_UAS.pdb

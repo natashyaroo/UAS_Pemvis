@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Kelompok7_Pemvis_UAS", "Kelompok7_Pemvis_UAS\Kelompok7_Pemvis_UAS.vbproj", "{723FC49E-5AD3-4C13-9863-1D8915DF67FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{723FC49E-5AD3-4C13-9863-1D8915DF67FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723FC49E-5AD3-4C13-9863-1D8915DF67FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723FC49E-5AD3-4C13-9863-1D8915DF67FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723FC49E-5AD3-4C13-9863-1D8915DF67FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F200B71-6FF7-4D3C-96D1-5EAA30DD540D}
+	EndGlobalSection
+EndGlobal
